@@ -1,0 +1,30 @@
+body {
+    margin: 100px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FAE6C6;
+    color: #3F372Bff;
+    border-bottom: 6px dashed #DD7E10;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+p{
+    color: #B85C00ff;
+}
